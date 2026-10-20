@@ -1,0 +1,1 @@
+"""Labour ERP backend package."""
